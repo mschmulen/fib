@@ -1,6 +1,6 @@
 {
-  "name": "fib",
-  "description": "fib",
+  "name": "worker-fib",
+  "description": "worker-fib",
   "private": true,
   "version": "1.0.0",
   "scripts": { "start": "node app" },
